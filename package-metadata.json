@@ -1,1 +1,0 @@
-{"dependencies": [], "sublime_text": "*", "url": "https://github.com/cemerson/salesforce-language-syntax", "description": "Adds code syntax support for Salesforce languages (extracted from main MavensMate package)", "version": "0.1.0", "platforms": ["*"]}
